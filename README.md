@@ -1,7 +1,7 @@
 ### Welcome to my profile!! 🐱‍💻
 
 - 🐱‍🚀 Learning Python and C++;
-- 🐱‍👤 Focous in Backend projects;
+- 🐱‍👤 Focus in Backend projects;
 
 | <a href="https://github.com/salemby"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SalemBy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salem's github stats" /></a> | <a href="https://github.com/SalemBy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalemBy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
