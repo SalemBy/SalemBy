@@ -1,6 +1,6 @@
 ### Welcome to my profile!! 🐱‍💻
 
-- 🐱‍🚀 Learning Python and C++;
+- 🐱‍🚀 Learning Java and C++;
 - 🐱‍👤 Focus in Backend projects;
 
 <a href="https://github.com/SalemBy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalemBy&layout=compact&theme=radical" /></a> 
