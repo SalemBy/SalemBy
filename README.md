@@ -1,6 +1,5 @@
 <div align="center">
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F549E5&height=120&section=header"/>
 
    ![welcome gif](welcome.gif)
    <h3>BySalem</h3>
@@ -27,4 +26,5 @@
 
 </ul>
 
-[![BySalem Activity](https://github-readme-activity-graph.vercel.app/graph?username=BySalem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![BySalem Activity](https://github-readme-activity-graph.vercel.app/graph?username=BySalem&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F549E5&height=120&section=footer"/>
