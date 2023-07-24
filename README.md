@@ -31,5 +31,5 @@
 
 
 
-[![Salem commits](https://github-readme-activity-graph.vercel.app/graph?username=salemby&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Salem commits](https://github-readme-activity-graph.vercel.app/graph?username=salemby&theme=rogue)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F549E5&height=120&section=footer"/>
