@@ -26,5 +26,10 @@
 
 </ul>
 
+ <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemby&layout=compact&theme=dracula&hide_border=true" /></a>
+
+
+
+
 [![BySalem Activity](https://github-readme-activity-graph.vercel.app/graph?username=BySalem&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F549E5&height=120&section=footer"/>
