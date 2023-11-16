@@ -11,7 +11,7 @@
 
  - 🐱‍👤 Meu nome é Júlio Salem. Sou desenvolvedor Back-End.
  - 🐱‍👓 Estou iniciando na area de programação. 
- - 🐱‍💻 Estudo Java e C++.
+ - 🐱‍💻 Estudo Java.
 
 
 <hr>
