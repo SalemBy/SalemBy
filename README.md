@@ -11,7 +11,7 @@
 
  - 🐱‍👤 Meu nome é Júlio Salem. Sou desenvolvedor Back-End.
  - 🐱‍👓 Estou iniciando na area de programação. 
- - 🐱‍💻 Estudo Java.
+ - 🐱‍💻 Estou estudando back e front-end.
 
 
 <hr>
@@ -20,10 +20,12 @@
 
 <ul>
 
- [![JAVA](https://skillicons.dev/icons?i=java)](https://www.java.net/)
- [![CPP](https://skillicons.dev/icons?i=cpp)](https://www.cpp.net/)
- [![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.net/)
-
+ ![JAVA](https://skillicons.dev/icons?i=java)
+ ![CPP](https://skillicons.dev/icons?i=cpp)
+ ![PYTHON](https://skillicons.dev/icons?i=python)
+ ![HTML](https://skillicons.dev/icons?i=html)
+ ![CSS](https://skillicons.dev/icons?i=css)
+ ![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)
 </ul>
 
  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemby&layout=compact&theme=dracula&hide_border=true" /></a>
