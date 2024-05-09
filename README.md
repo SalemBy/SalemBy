@@ -3,7 +3,7 @@
 
    ![welcome gif](welcome.gif)
    <h3>BySalem</h3>
-   <a href="https://www.linkedin.com/in/j%C3%BAlio-salem-281785269/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a target="_blank" href="https://www.linkedin.com/in/j%C3%BAlio-salem-281785269/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    
 </div>
 
