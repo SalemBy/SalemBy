@@ -30,8 +30,4 @@
 
  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemby&layout=compact&theme=dracula&hide_border=true" /></a>
 
-
-
-
-![Salem commits](https://github-readme-activity-graph.vercel.app/graph?username=salemby&theme=rogue)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F549E5&height=120&section=footer"/>
