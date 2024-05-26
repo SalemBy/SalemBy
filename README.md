@@ -9,10 +9,7 @@
 
 ---
 
- - 🐱‍👤 Meu nome é Júlio Salem. Sou desenvolvedor Back-End.
- - 🐱‍👓 Estou iniciando na area de programação. 
- - 🐱‍💻 Estou estudando back e front-end.
-
+ - 🐱‍👤 My name is Júlio Salem. I am a Back-End developer.
 
 <hr>
 
