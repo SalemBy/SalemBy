@@ -23,10 +23,12 @@
  
  ![CPP](https://skillicons.dev/icons?i=cpp)
  ![PYTHON](https://skillicons.dev/icons?i=python)
+ ![GIT](https://skillicons.dev/icons?i=git)
+  
  ![HTML](https://skillicons.dev/icons?i=html)
  ![CSS](https://skillicons.dev/icons?i=css)
  ![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)
- ![GIT](https://skillicons.dev/icons?i=git)
+
 
 </ul>
 
