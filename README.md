@@ -27,6 +27,8 @@
  ![HTML](https://skillicons.dev/icons?i=html)
  ![CSS](https://skillicons.dev/icons?i=css)
  ![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)
+ ![GIT](https://skillicons.dev/icons?i=git)
+ ![ARCH](https://skillicons.dev/icons?i=arch)
 </ul>
 
  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemby&layout=compact&theme=dracula&hide_border=true" /></a>
