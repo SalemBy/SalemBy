@@ -21,6 +21,7 @@
 <ul>
 
  ![JAVA](https://skillicons.dev/icons?i=java)
+ ![SPRING](https://skillicons.dev/icons?i=spring)
  ![CPP](https://skillicons.dev/icons?i=cpp)
  ![PYTHON](https://skillicons.dev/icons?i=python)
  ![HTML](https://skillicons.dev/icons?i=html)
