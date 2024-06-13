@@ -32,6 +32,6 @@
 
 </ul>
 
- <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemby&layout=compact&theme=dracula&hide_border=true" /></a>
+ <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemby&layout=compact&theme=dracula&hide_border=true&count_private=true" /></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F549E5&height=120&section=footer"/>
