@@ -13,22 +13,14 @@
 
 <hr>
 
-- Tecnologias:
+- Stack:
 
 <ul>
 
  ![JAVA](https://skillicons.dev/icons?i=java)
  ![SPRING](https://skillicons.dev/icons?i=spring)
- ![ARCH](https://skillicons.dev/icons?i=arch)
- 
  ![CPP](https://skillicons.dev/icons?i=cpp)
  ![PYTHON](https://skillicons.dev/icons?i=python)
- ![GIT](https://skillicons.dev/icons?i=git)
-  
- ![HTML](https://skillicons.dev/icons?i=html)
- ![CSS](https://skillicons.dev/icons?i=css)
- ![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)
-
 
 </ul>
 
